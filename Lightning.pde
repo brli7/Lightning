@@ -10,7 +10,7 @@ void setup() {
 
 void draw() {
   //stroke((int)(Math.random()*255), (int)(Math.random()*255), (int)(Math.random()*255));
-  background(0,0,0,1);
+  background(1,1,1,1);
   stroke(50,50,50);
   fill(200,200,200);
   ellipse(150,150,100,100);
