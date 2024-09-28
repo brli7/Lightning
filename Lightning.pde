@@ -13,7 +13,7 @@ void setup() {
 }
 
 void draw() {
-  background(1,1,1,1);
+  background(1,1,1);
   stroke(255,255,0);
   lightning();
   stroke(50,50,50);
